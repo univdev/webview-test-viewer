@@ -15,3 +15,12 @@ pod install
 yarn ios      # iOS 실행
 yarn android  # Android 실행
 ```
+## 버전 동기화
+### 프로젝트에서 요구하는 Node 버전이 없을 때
+```
+nvm install
+```
+### 해당 버전으로 변경하기
+```
+nvm use
+```
